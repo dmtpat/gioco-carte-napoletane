@@ -78,7 +78,7 @@ const mazzoNapoletano = [
         img: "https://upload.wikimedia.org/wikipedia/commons/1/10/07_Sette_di_denari.jpg",
         valore: 7
     }, {
-        nome: "Donna",
+        nome: "Fante",
         seme: "Denari",
         img: "https://upload.wikimedia.org/wikipedia/commons/0/06/08_Otto_di_denari.jpg",
         valore: 8
@@ -128,7 +128,7 @@ const mazzoNapoletano = [
         img: "https://upload.wikimedia.org/wikipedia/commons/a/ac/17_Sette_di_coppe.jpg",
         valore: 7
     }, {
-        nome: "Donna",
+        nome: "Fante",
         seme: "Coppe",
         img: "https://upload.wikimedia.org/wikipedia/commons/e/ee/18_Otto_di_coppe.jpg",
         valore: 8
@@ -178,7 +178,7 @@ const mazzoNapoletano = [
         img: "https://upload.wikimedia.org/wikipedia/commons/b/b4/27_Sette_di_spade.jpg",
         valore: 7
     }, {
-        nome: "Donna",
+        nome: "Fante",
         seme: "Spade",
         img: "https://upload.wikimedia.org/wikipedia/commons/b/bc/28_Otto_di_spade.jpg",
         valore: 8
@@ -228,7 +228,7 @@ const mazzoNapoletano = [
         img: "https://upload.wikimedia.org/wikipedia/commons/e/ea/37_Sette_di_bastoni.jpg",
         valore: 7
     }, {
-        nome: "Donna",
+        nome: "Fante",
         seme: "Bastoni",
         img: "https://upload.wikimedia.org/wikipedia/commons/b/b4/38_Otto_di_bastoni.jpg",
         valore: 8
